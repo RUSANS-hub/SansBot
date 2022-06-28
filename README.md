@@ -17,4 +17,4 @@
 <a href="https://instagram.com/rubensansidar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rubensansidar" height="30" width="40" /></a>
 </p>
 
-[`Heroku Deploy`](https://heroku.com/deploy?template=[https://github.com/M](https://github.com/MrSanss/SansBot-))
+[`Heroku Deploy`](https://heroku.com/deploy?template=https://github.com/MrSanss/SansBot-)
