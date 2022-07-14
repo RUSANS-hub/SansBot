@@ -77,4 +77,16 @@ const bucin = [
     "Sudah di tampar keras oleh kenyataan, tapi masih saja memeluk erat sebuah harapan.",
     "percayalah wanita itu hanya penasaran dengan karakter atau sifatmu, setelah dia tau semuanya dia akan meningalkan dirimu begitu saja.",
     "Kalau kamu tidak terlahir dari keluarga yang kaya, maka keluarga yang kaya harus terlahir dari kamu.",
+    "Aku hanya bisa tersenyum ketika teringatmu, dan hanya bisa merelakanmu pergi dengan orang baru:)",
+    "Sakitku bukan tentang kepergianmu, tapi tentang siapa yang akan bersamamu setelah aku.",
+    "Jangan menyia-nyiakan waktumu untuk seseorang yang tidak mengganggapmu.",
+    "Melepaskannya lebih baik daripada mengharapkan nya.",
+    "Kamu hanya mencintai, bukan memiliki.",
+    "Jangan memaksa seseorang untuk terus bersama mu.",
+    "Terkadang seseorang terasa sangat bodoh hanya untuk mencintai seseorang.",
+    "Maafkan aku karna telah menjadi benalu dalam hidupmu.",
+    "Kamu harus bisa menerima kenyataan tanpa menyalahkan keadaan.",
+    "Dia hanya gabut, dan sedang butuh seorang badut.",
+    "Melupakanmu itu sulit, tapi mengingatmu itu sakit.",
+    "Kukira sifat mu yang dingin, ternyata bukan aku yang kau ingin."
 ]
